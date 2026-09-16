@@ -1,0 +1,237 @@
+- generic [ref=f8e3]:
+  - banner [ref=f8e4]:
+    - navigation [ref=f8e5]:
+      - link "Indrajit" [ref=f8e6] [cursor=pointer]:
+        - /url: "#home"
+      - generic [ref=f8e7]:
+        - list [ref=f8e8]:
+          - listitem [ref=f8e9]:
+            - link "Home" [ref=f8e10] [cursor=pointer]:
+              - /url: "#home"
+          - listitem [ref=f8e11]:
+            - link "About" [ref=f8e12] [cursor=pointer]:
+              - /url: "#about"
+          - listitem [ref=f8e13]:
+            - link "Projects" [ref=f8e14] [cursor=pointer]:
+              - /url: "#portfolio"
+          - listitem [ref=f8e15]:
+            - link "Contact" [ref=f8e16] [cursor=pointer]:
+              - /url: "#contact"
+        - text: 
+      - generic [ref=f8e17]:
+        - button "Toggle theme" [ref=f8e18] [cursor=pointer]:
+          - generic [ref=f8e19]: 
+        - text: 
+  - main [ref=f8e20]:
+    - generic [ref=f8e23]:
+      - generic [ref=f8e24]:
+        - link "" [ref=f8e25] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/koleyindrajit/
+        - link "" [ref=f8e27] [cursor=pointer]:
+          - /url: https://github.com/koleyindrajit
+      - generic [ref=f8e29]:
+        - heading "Hi, I'm Indrajit Koley" [level=1] [ref=f8e30]
+        - heading "Electronics and Communication Student" [level=3] [ref=f8e31]
+        - paragraph [ref=f8e32]:
+          - text: A final-year engineering student at
+          - strong [ref=f8e33]: National Institute of Technology Patna
+        - link "Contact me " [ref=f8e34] [cursor=pointer]:
+          - /url: "#contact"
+          - text: Contact me
+          - generic [ref=f8e35]: 
+    - generic [ref=f8e36]:
+      - heading "About Me" [level=2] [ref=f8e37]
+      - generic [ref=f8e38]: My introduction
+      - generic [ref=f8e39]:
+        - img "Portrait of Indrajit Koley" [ref=f8e40]
+        - generic [ref=f8e41]:
+          - paragraph [ref=f8e42]: I'm a final-year undergraduate student at NIT Patna, passionate about consulting and technology. Seeking opportunities to contribute to innovative solutions and grow as a software engineer.
+          - generic [ref=f8e43]:
+            - generic [ref=f8e44]:
+              - generic [ref=f8e45]: 800+ hrs
+              - generic [ref=f8e46]: Time Spent
+            - generic [ref=f8e47]:
+              - generic [ref=f8e48]: 04+
+              - generic [ref=f8e49]: Projects
+            - generic [ref=f8e50]:
+              - generic [ref=f8e51]: 18+
+              - generic [ref=f8e52]: Months experience
+          - link "Download CV " [ref=f8e54] [cursor=pointer]:
+            - /url: /assets/ResumeIndrajitKoley.pdf
+            - text: Download CV
+            - generic [ref=f8e55]: 
+    - generic [ref=f8e56]:
+      - heading "Skills" [level=2] [ref=f8e57]
+      - generic [ref=f8e58]: My technical knowledge
+      - generic [ref=f8e59]:
+        - generic [ref=f8e61]:
+          - button " Programming Languages " [ref=f8e62] [cursor=pointer]:
+            - generic [ref=f8e63]: 
+            - heading "Programming Languages" [level=1] [ref=f8e65]
+            - generic [ref=f8e66]: 
+          - generic [ref=f8e67]:
+            - heading "Java" [level=3] [ref=f8e70]
+            - heading "JavaScript" [level=3] [ref=f8e73]
+            - heading "Python" [level=3] [ref=f8e76]
+        - generic [ref=f8e78]:
+          - button " IT Constructs " [ref=f8e79] [cursor=pointer]:
+            - generic [ref=f8e80]: 
+            - heading "IT Constructs" [level=1] [ref=f8e82]
+            - generic [ref=f8e83]: 
+          - generic:
+            - heading "DS & Algorithms" [level=3] [ref=f8e86]
+            - heading "OOPs" [level=3] [ref=f8e89]
+            - heading "DBMS" [level=3] [ref=f8e92]
+        - generic [ref=f8e94]:
+          - button " Technologies " [ref=f8e95] [cursor=pointer]:
+            - generic [ref=f8e96]: 
+            - heading "Technologies" [level=1] [ref=f8e98]
+            - generic [ref=f8e99]: 
+          - generic:
+            - heading "Git/GitHub" [level=3] [ref=f8e102]
+            - heading "SQL" [level=3] [ref=f8e105]
+            - heading "NextJs" [level=3] [ref=f8e108]
+            - heading "NodeJs" [level=3] [ref=f8e111]
+            - heading "Tailwind" [level=3] [ref=f8e114]
+    - generic [ref=f8e115]:
+      - heading "Qualification" [level=2] [ref=f8e116]
+      - generic [ref=f8e117]: My personal journey
+      - generic [ref=f8e118]:
+        - generic [ref=f8e120] [cursor=pointer]:
+          - generic [ref=f8e121]: 
+          - text: Education
+        - generic [ref=f8e123]:
+          - generic [ref=f8e125]:
+            - heading "Class 10th" [level=3] [ref=f8e126]
+            - generic [ref=f8e127]:
+              - generic [ref=f8e128]: Tagore Academy
+              - generic [ref=f8e129]: ICSE
+            - generic [ref=f8e130]:
+              - generic [ref=f8e131]: 
+              - text: "- 2019"
+            - button "View More " [ref=f8e132] [cursor=pointer]:
+              - text: View More
+              - generic [ref=f8e133]: 
+          - generic [ref=f8e138]:
+            - heading "Class 12th" [level=3] [ref=f8e139]
+            - generic [ref=f8e140]:
+              - generic [ref=f8e141]: Tagore Academy
+              - generic [ref=f8e142]: ISC
+            - generic [ref=f8e143]:
+              - generic [ref=f8e144]: 
+              - text: "- 2021"
+            - button "View More " [ref=f8e145] [cursor=pointer]:
+              - text: View More
+              - generic [ref=f8e146]: 
+          - generic [ref=f8e151]:
+            - heading "College" [level=3] [ref=f8e152]
+            - generic [ref=f8e153]: National Institute of Technology, Patna
+            - generic [ref=f8e155]:
+              - generic [ref=f8e156]: 
+              - text: 2022 - 2027
+            - button "View More " [ref=f8e157] [cursor=pointer]:
+              - text: View More
+              - generic [ref=f8e158]: 
+    - generic [ref=f8e162]:
+      - heading "Projects" [level=2] [ref=f8e163]
+      - generic [ref=f8e164]: Most recent work
+      - generic [ref=f8e166]:
+        - generic [ref=f8e167]:
+          - generic [ref=f8e169]:
+            - img "Spotify-Clone screenshot" [ref=f8e170]
+            - generic [ref=f8e171]:
+              - heading "Spotify-Clone" [level=3] [ref=f8e172]
+              - paragraph [ref=f8e173]: Spotify Clone is a web app developed using HTML, CSS, and JavaScript. It recreates Spotify's interface and features.
+              - link "GitHub Repository " [ref=f8e174] [cursor=pointer]:
+                - /url: https://github.com/koleyindrajit/spotifyClone.git
+                - text: GitHub Repository
+                - generic [ref=f8e175]: 
+              - link "See Live " [ref=f8e176] [cursor=pointer]:
+                - /url: https://koleyindrajit.github.io/spotifyClone/
+                - text: See Live
+                - generic [ref=f8e177]: 
+          - generic [ref=f8e179]:
+            - img "Symons-Says Game screenshot" [ref=f8e180]
+            - generic [ref=f8e181]:
+              - heading "Symons-Says Game" [level=3] [ref=f8e182]
+              - paragraph [ref=f8e183]: Simon Says color memory game built with vanilla JS.
+              - link "GitHub Repository " [ref=f8e184] [cursor=pointer]:
+                - /url: https://github.com/koleyindrajit/SymonSays-Game.git
+                - text: GitHub Repository
+                - generic [ref=f8e185]: 
+              - link "See Live " [ref=f8e186] [cursor=pointer]:
+                - /url: https://koleyindrajit.github.io/SymonSays-Game/
+                - text: See Live
+                - generic [ref=f8e187]: 
+          - generic [ref=f8e189]:
+            - img "TravasCo screenshot" [ref=f8e190]
+            - generic [ref=f8e191]:
+              - heading "TravasCo" [level=3] [ref=f8e192]
+              - paragraph [ref=f8e193]: TravasCo prototype - travel planner idea.
+              - link "GitHub Repository " [ref=f8e194] [cursor=pointer]:
+                - /url: https://github.com/koleyindrajit/foundersfution.git
+                - text: GitHub Repository
+                - generic [ref=f8e195]: 
+              - link "See Live " [ref=f8e196] [cursor=pointer]:
+                - /url: https://koleyindrajit.github.io/foundersfution/
+                - text: See Live
+                - generic [ref=f8e197]: 
+        - generic [ref=f8e198] [cursor=pointer]
+        - generic [ref=f8e199] [cursor=pointer]
+        - generic [ref=f8e200]:
+          - generic [ref=f8e201] [cursor=pointer]
+          - generic [ref=f8e202] [cursor=pointer]
+          - generic [ref=f8e203] [cursor=pointer]
+    - generic [ref=f8e204]:
+      - heading "Contact Me" [level=2] [ref=f8e205]
+      - generic [ref=f8e206]: Get in touch
+      - generic [ref=f8e207]:
+        - generic [ref=f8e208]:
+          - generic [ref=f8e209]:
+            - generic [ref=f8e210]: 
+            - generic [ref=f8e211]:
+              - heading "Contact Me" [level=3] [ref=f8e212]
+              - text: 748XXXXXXX
+          - generic [ref=f8e213]:
+            - generic [ref=f8e214]: 
+            - generic [ref=f8e215]:
+              - heading "Email" [level=3] [ref=f8e216]
+              - text: ikoley615@gmail.com
+          - generic [ref=f8e217]:
+            - generic [ref=f8e218]: 
+            - generic [ref=f8e219]:
+              - heading "Location" [level=3] [ref=f8e220]
+              - text: Jamshedpur, Jharkhand, India
+        - generic [ref=f8e221]:
+          - generic [ref=f8e222]:
+            - generic [ref=f8e223]:
+              - text: Name
+              - textbox "Name" [ref=f8e224]
+            - generic [ref=f8e225]:
+              - text: Email
+              - textbox "Email" [ref=f8e226]
+          - generic [ref=f8e227]:
+            - text: Message
+            - textbox "Message" [ref=f8e228]
+          - button "Send Message " [ref=f8e230]:
+            - text: Send Message
+            - generic [ref=f8e231]: 
+  - contentinfo [ref=f8e232]:
+    - generic [ref=f8e233]:
+      - generic [ref=f8e234]:
+        - generic [ref=f8e235]:
+          - heading "Indrajit" [level=1] [ref=f8e236]
+          - text: ECE Engg. Student
+        - list [ref=f8e237]:
+          - listitem [ref=f8e238]:
+            - link "Qualification" [ref=f8e239] [cursor=pointer]:
+              - /url: "#qualification"
+          - listitem [ref=f8e240]:
+            - link "Portfolio" [ref=f8e241] [cursor=pointer]:
+              - /url: "#portfolio"
+          - listitem [ref=f8e242]:
+            - link "Contact-Me" [ref=f8e243] [cursor=pointer]:
+              - /url: "#contact"
+      - paragraph [ref=f8e244]: © Indrajit. All right reserved
+  - link "" [ref=f8e245] [cursor=pointer]:
+    - /url: "#"

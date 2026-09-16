@@ -1,0 +1,13 @@
+@import url('/assets/swiper-bundle.min.css');
+@import url('/assets/newcss.css');
+
+/* Minimal overrides for React root */
+html,
+body,
+#root {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
